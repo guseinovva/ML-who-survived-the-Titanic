@@ -1,4 +1,4 @@
-# ML+who-survived-the-Titanic
+# ML_who-survived-the-Titanic
 Kaggle Competition Project: Building an AI to Predict Who Survived the Titanic
 Questions:
 1. Explain how the quality of a model is calculated for a classification problem: name the primary and secondary metrics, give an example.
